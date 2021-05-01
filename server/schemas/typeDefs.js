@@ -24,7 +24,7 @@ type User {
   }
 
   type Query {
-    user: User
+    me: User
   }
   
   input BookInput {
