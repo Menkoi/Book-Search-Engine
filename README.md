@@ -12,11 +12,3 @@ Just type in any book in the search bar and save it to your list!
 
 ## Instructions
 click the link to check out the website https://blooming-thicket-74539.herokuapp.com/
-
-## Questions? Contact me
-
-  - Menkoi
-
-  - https://github.com/Menkoi
-
-  - celaeon@gmail.com
